@@ -33,6 +33,8 @@ The same was done for the Spec tests.
 
 ### Details
 
-This translation was written in Vscode
-The Ruby Version used to write the original code: 2.5.0
-The Spec tests were written in the 3.2.1 release of [Jasmine](https://github.com/Jasmine/jasmine)
+This translation was written in Vscode <br/>
+The Ruby Version used to write the original code: 2.5.0 <br/>
+The Spec tests were written in the 3.2.1 release of [Jasmine](https://github.com/Jasmine/jasmine) <br/>
+
+***
