@@ -1,6 +1,6 @@
 # OrangeSoda
 
-## Project Ouline
+## Project Outline
 ---
 
 To Relearn Javascript, the 'Fizzbuzz' Ruby project was taken and then translated as the concepts had been covered.
