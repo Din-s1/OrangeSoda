@@ -17,9 +17,18 @@ end */
 //Javascript Version
 
 
-describe("fizzbuzz", function() {
+describe("fizzBuzz", function() {
   it("returns fizz for the number 3", function() {
-    expect(3).toBe('fizz');
+    expect(fizzBuzz(3)).toBe('fizz');
+  });
+  it("returns buzz for the number 5", function() {
+    expect(fizzBuzz(5)).toBe('buzz');
+  });
+  it("returns fizzbuzz for the number 15", function() {
+    expect(fizzBuzz(15)).toBe('fizzbuzz');
+  });
+  it("returns the number if none of above satisfied", function() {
+    expect(fizzBuzz(1)).toBe('1');
   });
 });
 
