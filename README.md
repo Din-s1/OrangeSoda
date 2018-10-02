@@ -10,6 +10,7 @@ The same was done for the Spec tests.
 
 ## Project Map
 
+```
 → tree
 .
 └── lib
@@ -25,6 +26,7 @@ The same was done for the Spec tests.
     └── fizzBuzz.js
 └── README.md
 └── SpecRunner.html
+```
 
 ---
 ---
