@@ -22,14 +22,14 @@ function fizzBuzz(number) {
       return 'fizzbuzz';
     }
 
-    if ( number % 3 == 0 ) {
+    if ( number === 3) {
         return 'fizz';
     }
 
-    if ( number % 5 == 0) {
+    if ( number === 5) {
         return 'buzz';
     }
-      return number.toString();
+      return number;
 }
   for(number = 0; number <= 100; number++){
     console.log(fizzBuzz(number));

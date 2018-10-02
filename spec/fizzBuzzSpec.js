@@ -28,7 +28,7 @@ describe("fizzBuzz", function() {
     expect(fizzBuzz(15)).toBe('fizzbuzz');
   });
   it("returns the number if none of above satisfied", function() {
-    expect(fizzBuzz(1)).toBe('1');
+    expect(fizzBuzz(1)).toBe(1);
   });
 });
 
